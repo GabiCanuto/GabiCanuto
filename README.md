@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-👩‍💻 Olá! Me chamo Gabriela Eduarda, tenho 19 anos e sou natural de Aparecida – SP.
+👩‍💻 Olá! Me chamo Gabriela Eduarda, tenho 20 anos e sou natural de Aparecida – SP.
 🎓 Sou formada em Técnico em Design Gráfico e atualmente curso Ciência da Computação na Uninter e Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 Apaixonada por tecnologia, design e impacto social, compartilho meus conhecimentos de forma criativa e acessível. Tenho experiência com desenvolvimento web utilizando JavaScript, React, Node.js e MongoDB, além de atuar como UX/UI Designer em projetos como o sistema da ONG Patas Unidas.
